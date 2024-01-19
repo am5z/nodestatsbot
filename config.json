@@ -1,0 +1,16 @@
+{
+	"token": "Your Discord bot token",
+	"clientId": "Your Discord bot's client ID (found under OAuth2)",
+	"guildId": "The guild ID of the server that you will be using this in",
+    "embed": {
+        "_note": "The color should be a valid HEX color. By default, it is white.",
+        "color": "FFFFFF",
+        "title": "Node Statistics - Test Node",
+        "logo": "https://picsum.photos/200"
+    },
+    "node": {
+        "name": "Test Node",
+        "command": "testnode",
+        "hostname": "testnode.sryden.com"
+    }
+}
